@@ -1,7 +1,7 @@
-class javaJenkins{
-		public static void main(strings args[]){
+class HavaJenkins{
+		public static void main(strings[] args){
 
-			System.out.println("ASSALAMU_ALAIKUM")
+			System.out.println("ASSALAMU_ALAIKUM");
 			
 		}
 
